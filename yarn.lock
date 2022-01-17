@@ -1934,10 +1934,10 @@
     "@typescript-eslint/types" "4.22.0"
     eslint-visitor-keys "^2.0.0"
 
-"@vue-stripe/vue-stripe@^4.1.8":
-  version "4.1.8"
-  resolved "https://registry.yarnpkg.com/@vue-stripe/vue-stripe/-/vue-stripe-4.1.8.tgz#3488457a1c7762bb3d02b80d195ce8747c215950"
-  integrity sha512-rc6+p6E9eMaUbulO8JCWwL3TTDLpmdK/h7ppEu9IlcKBecNbnoehi0UpA89cnsZZeswkvWNZNTf3l/xYjwKLdA==
+"@vue-stripe/vue-stripe@^4.3.2":
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@vue-stripe/vue-stripe/-/vue-stripe-4.3.2.tgz#7208e6cf5ae1a3c1f08a204a4c97451d9006c2ab"
+  integrity sha512-sp+2s7C0bpEsK/hMCTL3CrxnrJ9S3Io9WlxHqEDaG2+mwy6oy0ezcswk3IElhdj8h/eTZm8b04Xazgqip2zwMA==
   dependencies:
     "@stripe/stripe-js" "^1.13.2"
     vue-coerce-props "^1.0.0"
